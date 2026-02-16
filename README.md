@@ -17,6 +17,7 @@ I believe in building strong foundations before scaling into advanced fields lik
 ## **🎓 Education**
 **High School Student (Class 10)**  
 **Education Institute: Julien Day School, Ganganagar**
+
 Actively preparing for higher studies in Computer Science and Cybersecurity.
 
 Focused on building technical depth early through self-driven learning and structured project development.
