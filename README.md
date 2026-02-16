@@ -1,19 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Hardik
 
-<!--
-**Hbasu5/Hbasu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building systems. Strengthening foundations. Thinking long-term.
+--------------
+## **🚀 About Me**
+Based in West Bengal, India
+I’m focused on mastering Python from the ground up — not just syntax, but structured system design and disciplined architecture.
+Currently working on:
+- 🐍 Strengthening Python fundamentals  
+- 🧩 Modular system building  
+- 🧠 Developing algorithmic thinking  
+- ⚙️ Clean project architecture  
 
-Here are some ideas to get you started:
+I believe in building strong foundations before scaling into advanced fields like AI, backend systems, and cybersecurity.
+---------------
+## **🎓 Education**
+**High School Student (Class 10)**  
+**Education Institute: Julien Day School, Ganganagar**
+Actively preparing for higher studies in Computer Science and Cybersecurity.
 
-- 🔭 I’m currently working on Aether, an all in one AI app
-- 🌱 I’m currently learning coding of various languanges
-- 👯 I’m looking to collaborate on AI
-- 🤔 I’m looking for help with app creation, specially UI/UX
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ All in one bio: Hey there! I'm Hardik, a 16-year-old high schooler from India who's been coding like it's a superpower 🧑‍💻. I’m currently building an AI-powered productivity suite called Aether, made to help students and general users unlock the power of automation, creative tools, and smart utilities — all in one app!
+Focused on building technical depth early through self-driven learning and structured project development.
+----------------
+## **🧠 Philosophy**
+- Structure over shortcuts  
+- Depth over speed  
+- Systems over scripts  
+- Consistency over hype
+  
+I prefer understanding how things work internally rather than relying blindly on tools.
+-------------------------
+## **🛠 Tech Stack (Growing)**
+- Python  
+- Git & GitHub  
+- Modular CLI application design  
+- Problem-solving and algorithmic thinking  
 
-💡 I believe in code with purpose and learning through building. I chase curiosity, not certificates.
-
--->
+More coming as the foundation strengthens.
+------------------
+## **📈 Current Focus**
+- Clean code practices  
+- Functional separation (logic vs input/output)  
+- Project structuring  
+- Writing meaningful commits  
+- Long-term system thinking  
+-------------
+## **📬 Contact**
+📧 Primary: picturesque.hardik@gmail.com  
+📧 Alternative: basuhardik5@gmail.com  
+--------------------------------
+Always building. Always refining.
