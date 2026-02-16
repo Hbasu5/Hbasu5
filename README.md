@@ -5,6 +5,7 @@ Building systems. Strengthening foundations. Thinking long-term.
 ## **🚀 About Me**
 Based in West Bengal, India
 I’m focused on mastering Python from the ground up — not just syntax, but structured system design and disciplined architecture.
+
 Currently working on:
 - 🐍 Strengthening Python fundamentals  
 - 🧩 Modular system building  
