@@ -30,7 +30,9 @@ Focused on building technical depth early through self-driven learning and struc
 I prefer understanding how things work internally rather than relying blindly on tools.
 -------------------------
 ## **🛠 Tech Stack (Growing)**
-- Python  
+- Python
+- Java
+- HTML
 - Git & GitHub  
 - Modular CLI application design  
 - Problem-solving and algorithmic thinking  
