@@ -1,6 +1,3 @@
-<h1 align="center"><img src="https://img.shields.io/badge/📚%20Board%20Exams%20-Selective%20availabilitye%20March%201st–23rd-E63946?style=for-the-badge&logo=graduation-cap&logoColor=white" /></h1>
-<p align="center"><b>Development activity will resume after this period.</b></p>
-
 # 👋 Hi, I'm Hardik
 
 Building systems. Strengthening foundations. Thinking long-term.
