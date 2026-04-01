@@ -17,7 +17,7 @@ Currently working on:
 I believe in building strong foundations before scaling into advanced fields like AI, backend systems, and cybersecurity.
 ---------------
 ## **🎓 Education**
-**High School Student (Class 10)**  
+**High School Student (Class 11)**  
 **Education Institute: Julien Day School, Ganganagar**
 
 Actively preparing for higher studies in Computer Science and Cybersecurity.
