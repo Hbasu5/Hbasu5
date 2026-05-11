@@ -1,56 +1,57 @@
 # 👋 Hi, I'm Hardik
 
 Building systems. Strengthening foundations. Thinking long-term.
---------------
-## **🚀 About Me**
-Based in West Bengal, India
 
+## 🚀 About Me
+High school student from West Bengal, India, focused on building strong foundations in software engineering, system design, and problem-solving.
 
-I’m focused on mastering Python from the ground up — not just syntax, but structured system design and disciplined architecture.
+Currently learning and building through self-driven projects with an emphasis on structure, scalability, and clean architecture.
 
-Currently working on:
-- 🐍 Strengthening Python fundamentals  
-- 🧩 Modular system building  
-- 🧠 Developing algorithmic thinking  
-- ⚙️ Clean project architecture  
+---
 
-I believe in building strong foundations before scaling into advanced fields like AI, backend systems, and cybersecurity.
----------------
-## **🎓 Education**
-**High School Student (Class 11)**  
-**Education Institute: Julien Day School, Ganganagar**
+## 🛠 Tech Stack
+- Python  
+- Java  
+- HTML  
+- Git & GitHub  
 
-Actively preparing for higher studies in Computer Science and Cybersecurity.
+Currently exploring:
+- Modular CLI development  
+- Project structuring  
+- Algorithmic thinking  
+- Clean code practices  
 
-Focused on building technical depth early through self-driven learning and structured project development.
-----------------
-## **🧠 Philosophy**
+---
+
+## 🧠 Philosophy
 - Structure over shortcuts  
 - Depth over speed  
 - Systems over scripts  
-- Consistency over hype
-  
-I prefer understanding how things work internally rather than relying blindly on tools.
--------------------------
-## **🛠 Tech Stack (Growing)**
-- Python
-- Java
-- HTML
-- Git & GitHub  
-- Modular CLI application design  
-- Problem-solving and algorithmic thinking  
+- Consistency over hype  
 
-More coming as the foundation strengthens.
-------------------
-## **📈 Current Focus**
-- Clean code practices  
-- Functional separation (logic vs input/output)  
-- Project structuring  
-- Writing meaningful commits  
-- Long-term system thinking  
--------------
-## **📬 Contact**
-📧 Primary: picturesque.hardik@gmail.com  
-📧 Alternative: basuhardik5@gmail.com  
---------------------------------
-Always building. Always refining.
+I prefer understanding how systems work internally instead of relying blindly on abstractions.
+
+---
+
+## 🎓 Education
+**Class 11 Student**  
+Julien Day School, Ganganagar  
+
+Interested in:
+- Computer Science  
+- Backend Systems  
+- AI  
+- Cybersecurity  
+
+---
+
+## 📬 Contact
+📧 picturesque.hardik@gmail.com  
+📧 basuhardik5@gmail.com  
+
+---
+
+**Always building. Always refining.**
+
+---
+© 2026 Hardik Basu • Built with curiosity and consistency.
