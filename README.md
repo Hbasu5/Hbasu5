@@ -1,3 +1,14 @@
+# <p align="center">![Maintenance](https://img.shields.io/badge/Status-Temporary%20Slowdown-yellow?style=for-the-badge&logo=github)</p>
+
+## ⚠️ Development Environment Notice
+
+Due to a change in the primary development environment from **Windows 11** to **Windows 10**, some features and workflows are currently unstable or partially broken and require fixes/reconfiguration.
+
+As a result, development progress may temporarily slow down or periodically stop, and repository commits could become infrequent for the next few days or weeks while compatibility issues are resolved.
+
+Thank you for your patience and understanding.
+
+
 # 👋 Hi, I'm Hardik
 
 Building systems. Strengthening foundations. Thinking long-term.
