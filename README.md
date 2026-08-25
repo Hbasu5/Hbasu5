@@ -1,68 +1,31 @@
-# <p align="center">![Maintenance](https://img.shields.io/badge/Status-Temporary%20Slowdown-yellow?style=for-the-badge&logo=github)</p>
-
-## ⚠️ Development Environment Notice
-
-Due to a change in the primary development environment from **Windows 11** to **Windows 10**, some features and workflows are currently unstable or partially broken and require fixes/reconfiguration.
-
-As a result, development progress may temporarily slow down or periodically stop, and repository commits could become infrequent for the next few days or weeks while compatibility issues are resolved.
-
-Thank you for your patience and understanding.
-
-
 # 👋 Hi, I'm Hardik
 
 Building systems. Strengthening foundations. Thinking long-term.
 
-## 🚀 About Me
-High school student from West Bengal, India, focused on building strong foundations in software engineering, system design, and problem-solving.
+## About
 
-Currently learning and building through self-driven projects with an emphasis on structure, scalability, and clean architecture.
+Class 11 student at **Julien Day School, Ganganagar**, West Bengal, India, interested in software engineering, backend systems, artificial intelligence, and cybersecurity.
 
----
+I build independent projects to strengthen my understanding of programming, system design, algorithms, and software architecture.
 
-## 🛠 Tech Stack
-- Python  
-- Java  
-- HTML  
-- Git & GitHub  
+## Technical Interests
 
-Currently exploring:
-- Modular CLI development  
-- Project structuring  
-- Algorithmic thinking  
-- Clean code practices  
+- Python
+- Java
+- Backend Development
+- Artificial Intelligence
+- Cybersecurity
+- Algorithms & Data Structures
+- System Design
 
----
+## Development Notes
 
-## 🧠 Philosophy
-- Structure over shortcuts  
-- Depth over speed  
-- Systems over scripts  
-- Consistency over hype  
+As a full-time student, academics remain a significant priority alongside my technical work. Project development and repository updates may therefore vary in frequency.
 
-I prefer understanding how systems work internally instead of relying blindly on abstractions.
-
----
-
-## 🎓 Education
-**Class 11 Student**  
-Julien Day School, Ganganagar  
-
-Interested in:
-- Computer Science  
-- Backend Systems  
-- AI  
-- Cybersecurity  
-
----
-
-## 📬 Contact
-📧 picturesque.hardik@gmail.com  
-📧 basuhardik5@gmail.com  
+Repositories are updated as projects progress and new work is completed.
 
 ---
 
 **Always building. Always refining.**
 
----
-© 2026 Hardik Basu • Built with curiosity and consistency.
+© 2026 Hardik Basu
