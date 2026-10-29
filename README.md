@@ -2,6 +2,8 @@
 
 Building systems. Strengthening foundations. Thinking long-term.
 
+🌐 **Portfolio:** [hbasu5.github.io](https://hbasu5.github.io/)
+
 ## About
 
 Class 11 student at **Julien Day School, Ganganagar**, West Bengal, India, interested in software engineering, backend systems, artificial intelligence, and cybersecurity.
