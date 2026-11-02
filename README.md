@@ -2,7 +2,7 @@
 
 Building systems. Strengthening foundations. Thinking long-term.
 
-🌐 **Portfolio:** [hbasu5.github.io](https://hbasu5.github.io/)
+🌐 [**Click to visit my Portfolio**](https://hbasu5.github.io/Hbasu5)
 
 ## About
 
